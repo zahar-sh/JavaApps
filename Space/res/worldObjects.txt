@@ -1,0 +1,6 @@
+-30 -15 8 7 pause.png
+0 0 15 13 settings.png
+-17 15 20 17 fon2.png
+32 32 10 10 tetris.png
+60 -17 8 7 enem.png
+80 39 9 11 rocket.png
